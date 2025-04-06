@@ -1,5 +1,21 @@
 # contacts_app
 
+You can download and install the latest version of the Contact Management App using the link below:
+
+👉 Download APK
+
+🛠️ How to Install:
+Click the link above to go to the latest release page.
+
+Scroll down to the Assets section and download the .apk file.
+
+On your Android device:
+
+Make sure “Install from unknown sources” is enabled in your device settings.
+
+Tap on the APK file to install the app.
+
+
 A new Flutter project.
 
 ## Getting Started
