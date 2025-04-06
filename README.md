@@ -2,7 +2,7 @@
 
 You can download and install the latest version of the Contact Management App using the link below:
 
-👉 Download APK
+👉 [Download APK]https://github.com/SHREE-NIKESH-R/Contact_Management_App/releases/download/v1.0/Contact_Management_shreenikesh.apk
 
 🛠️ How to Install:
 Click the link above to go to the latest release page.
