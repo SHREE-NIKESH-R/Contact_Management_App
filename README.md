@@ -16,9 +16,11 @@ Make sure “Install from unknown sources” is enabled in your device settings.
 Tap on the APK file to install the app.
 
 
-A new Flutter project.
+
 
 ## Getting Started
+
+A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
